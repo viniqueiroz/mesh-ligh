@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "mdebug_log.h": "c",
+    "light_handle.h": "c",
+    "mupgrade.h": "c",
+    "mdebug_console.h": "c",
+    "mdebug_espnow.h": "c",
+    "stdarg.h": "c",
+    "light_driver.h": "c"
+  }
+}
